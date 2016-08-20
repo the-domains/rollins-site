@@ -1,21 +1,11 @@
-typography_spectrum: 0.91482571978122
-color:
-  brandStrength: 0.4641054505482316
-  lightness: 0.9038210313301533
-  saturation: 0.796617443440482
-  rhythmicContrast: 0.22792554483748972
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+name: Rollins Real Estate Management
+favicon: null
 layout_spectrum: 0.5868037801701576
+typography_spectrum: 0.91482571978122
 author:
   name: Frank Landolt
   email: flandolt@rrem.com
   url: ''
-name: Rollins Real Estate Management
 navigation:
   - name: Services
     id: b3974b0b-e020-4739-8a4c-6f90b30308fd
@@ -31,3 +21,27 @@ navigation:
     type: external
 title: Commercial Leasing & Property Management
 description: 'Commercial brokerage firm in Rockville, Maryland'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#202121'
+    - '#f02300'
+    - '#669dc6'
+    - '#0071a0'
+    - '#fff3ce'
+  brandStrength: 0.625
+  lightness: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0.22792554483748972
+purpose: []
