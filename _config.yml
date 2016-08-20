@@ -19,5 +19,8 @@ navigation:
   - name: Managed Properties
     id: 60552014-7f8d-4dae-95ec-1fad8dfeb54b
     type: content
+  - name: Search all properties
+    url: 'http://www.rrem.com/$frame.html?http%3A%2F%2Fwww.showcase.com'
+    type: external
 title: Rollins Real Estate Management
 description: Commercial Brokerage and Managment
