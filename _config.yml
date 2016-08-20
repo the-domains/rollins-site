@@ -1,38 +1,4 @@
-name: Rollins Real Estate Management
-favicon: null
-layout_spectrum: 0.01604
 typography_spectrum: 0.91012
-author:
-  name: Frank Landolt
-  email: flandolt@rrem.com
-  url: ''
-navigation:
-  - name: Services
-    id: b3974b0b-e020-4739-8a4c-6f90b30308fd
-    type: content
-  - name: Fairview
-    id: 60552014-7f8d-4dae-95ec-1fad8dfeb54b
-    type: content
-  - name: Careers
-    id: 676ee7a1-eaf3-4bc4-a444-55c0af12d8e9
-    type: content
-  - name: Search all properties
-    url: 'http://www.rrem.com/$frame.html?http%3A%2F%2Fwww.showcase.com'
-    type: external
-title: Commercial Leasing & Property Management
-description: 'Commercial brokerage firm in Rockville, Maryland'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#202121'
@@ -44,4 +10,38 @@ color:
   lightness: 0.75
   saturation: 0.875
   rhythmicContrast: 0.22792554483748972
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.01604
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Frank Landolt
+  email: flandolt@rrem.com
+  url: ''
+name: Rollins Real Estate Management
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Services
+    id: b3974b0b-e020-4739-8a4c-6f90b30308fd
+    type: content
+  - name: Managed Properties
+    id: 60552014-7f8d-4dae-95ec-1fad8dfeb54b
+    type: content
+  - name: Careers
+    id: 676ee7a1-eaf3-4bc4-a444-55c0af12d8e9
+    type: content
+  - name: Search all properties
+    url: 'http://www.rrem.com/$frame.html?http%3A%2F%2Fwww.showcase.com'
+    type: external
+favicon: null
+title: Commercial Leasing & Property Management
+description: 'Commercial brokerage firm in Rockville, Maryland'
 purpose: []
