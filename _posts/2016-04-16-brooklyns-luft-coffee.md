@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T17:10:10.833Z'
+datePublished: '2016-08-20T17:10:37.549Z'
 sourcePath: _posts/2016-04-16-brooklyns-luft-coffee.md
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ keywords:
   - baristas
 related: []
 author: []
-dateModified: '2016-08-20T17:10:09.408Z'
+dateModified: '2016-08-20T17:10:37.010Z'
 title: Brooklyn's Luft Coffee
 app_links: []
 publisher:
