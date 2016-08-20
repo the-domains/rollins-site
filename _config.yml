@@ -22,5 +22,8 @@ navigation:
   - name: Search all properties
     url: 'http://www.rrem.com/$frame.html?http%3A%2F%2Fwww.showcase.com'
     type: external
+  - name: Careers
+    id: 676ee7a1-eaf3-4bc4-a444-55c0af12d8e9
+    type: content
 title: Rollins Real Estate Management
 description: Commercial Brokerage and Managment
