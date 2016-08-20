@@ -1,4 +1,3 @@
-layout_spectrum: 0.5868037801701576
 typography_spectrum: 0.91482571978122
 color:
   brandStrength: 0.4641054505482316
@@ -6,9 +5,11 @@ color:
   saturation: 0.796617443440482
   rhythmicContrast: 0.22792554483748972
   brandColors:
-    - '#703030'
-    - '#2F343B'
-    - '#7E827A'
-    - '#E3CDA4'
-    - '#C77966'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.5868037801701576
 name: Rollins Site
+title: Rollins Real Estate Management
