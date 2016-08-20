@@ -11,7 +11,11 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.5868037801701576
-name: Rollins Site
+author:
+  name: Frank Landolt
+  email: flandolt@rrem.com
+  url: ''
+name: Rollins Real Estate Management
 navigation:
   - name: Services
     id: b3974b0b-e020-4739-8a4c-6f90b30308fd
@@ -25,5 +29,5 @@ navigation:
   - name: Careers
     id: 676ee7a1-eaf3-4bc4-a444-55c0af12d8e9
     type: content
-title: Rollins Real Estate Management
+title: Commercial Leasing & Property Management
 description: Commercial Brokerage and Managment
